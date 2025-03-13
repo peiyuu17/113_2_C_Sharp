@@ -24,9 +24,9 @@ namespace Program5_13
             int count;
             try
             {
-                if(SaveFile.ShowDialog() == DialogResult.OK)
+                if(saveFileDialog1.ShowDialog() == DialogResult.OK)
                 {
-                    outputFile = File.CreateText(SaveFile.FileName);
+                    outputFile = File.CreateText(saveFileDialog1.FileName);
                     if (int.TryParse(textBox1.Text, out count))
                     {
                         for (int i = 0; i < count; i++)

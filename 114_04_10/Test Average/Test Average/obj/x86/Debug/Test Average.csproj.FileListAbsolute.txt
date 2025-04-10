@@ -36,3 +36,13 @@ C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\D
 C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
 C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.exe
 C:\Users\shu\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\bin\Debug\Test Average.exe.config
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\bin\Debug\Test Average.exe
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\bin\Debug\Test Average.pdb
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test_Average.Form1.resources
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test_Average.Properties.Resources.resources
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.exe
+C:\Users\admin\Desktop\113_2_C_Sharp\114_04_10\Test Average\Test Average\obj\x86\Debug\Test Average.pdb
